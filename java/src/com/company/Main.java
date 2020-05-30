@@ -3,7 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("hello world");
         var text = "Always look on the bright side of life!";
 
         var manager = new TextManager();
